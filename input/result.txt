@@ -1,0 +1,43 @@
+test 1
+
+Enter names of the files dataset input-partition output-partition
+<you type:>
+data1.txt p1-0.txt output1-0.txt
+<program prints:>
+Partition s0 was replaced with partitions s01 s02 s03 using Feature 1
+=================================================================================
+test 2
+
+Enter names of the files dataset input-partition output-partition
+<you type:>
+data1.txt p1-1.txt output1-1.txt
+<program prints:>
+Partition s3 was replaced with partitions s31 s32 using Feature 3 =================================================================================
+test 3
+
+Enter names of the files dataset input-partition output-partition
+<you type:>
+data1.txt p1-2.txt output1-2.txt
+<program prints:>
+Partition s1 was replaced with partitions s11 s12 using Feature 2 =================================================================================
+test 4
+
+Enter names of the files dataset input-partition output-partition
+<you type:>
+data2.txt p2-1.txt output2-1.txt
+<program prints:>
+Partition s3 was replaced with partitions s31 s32 using Feature 2 =================================================================================
+test 5
+
+Enter names of the files dataset input-partition output-partition
+<you type:>
+data3.txt p3-1.txt output3-1.txt
+<program prints:>
+Partition s2 was replaced with partitions s21 s22 using Feature 2 =================================================================================
+test 6
+
+Enter names of the files dataset input-partition output-partition
+<you type:>
+data4.txt p4-1.txt output4-1.txt
+<program prints:>
+Partition s1 was replaced with partitions s11 s12 using Feature 2
